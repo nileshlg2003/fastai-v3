@@ -1,7 +1,4 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# WhatDish - Image classifiction model with resnet50 to detect  and classify the "Pav Bhaji" and "Misal Pav" images, deployment on Render
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
-
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
-
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+Test it out with Pav Bhaji and Misal Pav images!
+https://whatdish.onrender.com/
